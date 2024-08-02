@@ -53,5 +53,5 @@ model.train()
 ## Visualization
 The program also includes a visualization of the decision boundary and the data points. This is done using Matplotlib's animation module to show how the decision boundary changes over the epochs.
 
-# Author
+## Author
 This program is developed by Uma Maheshwari Banna.
